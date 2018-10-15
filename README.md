@@ -51,8 +51,8 @@ RubikaCoin-cli masternode status
 
 ## Usage:
 ```bash
-RubikaCoin-cli masternode status  
-RubikaCoin-cli getinfo
+rubika-cli masternode status  
+rubika-cli getinfo
 ```
 Also, if you want to check/start/stop **RBK**, run one of the following commands as **root**:
 
